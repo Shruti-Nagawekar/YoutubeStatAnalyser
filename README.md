@@ -1,7 +1,7 @@
 # YouTube Data Analysis Project
 
 ## Overview
-This project utilizes the YouTube Data API to retrieve and analyze video data and channel statistics from YouTube channels. I made this help my YouTube channel. The goal is to gain insights into popular video trends, audience preferences, and overall engagement metrics. These insights can be used to know what works well on YouTube and aid in making informed decisions while producing videos for my own channel.
+This project utilizes the YouTube Data API to retrieve and analyze video data and channel statistics from YouTube channels. I made this to help my YouTube channel. The goal is to gain insights into popular video trends, audience preferences, and overall engagement metrics. These insights can be used to know what works well on YouTube and help to make informed decisions while producing videos for my own channel.
 
 ## Features
 - **Video Data Retrieval**: Fetches data such as video titles, view counts, likes, dislikes, comments, etc., for analysis.
